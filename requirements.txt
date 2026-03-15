@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+yfinance
+plotly
+scipy
+kaleido
+requests
+textblob
+fpdf2
+matplotlib
+seaborn
